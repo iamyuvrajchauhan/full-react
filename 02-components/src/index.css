@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'gilroy';
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+html {
+  color: #fff
+}
+body{
+  background-color: black;
+}
+
+
+.card {
+  background-color: crimson;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.nav {
+  background-color: rgb(123, 107, 85);
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+}
