@@ -1,0 +1,13 @@
+.header {
+    /* background-color: burlywood; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+.header button{
+    
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 1px solid #8d8d8d;
+}
